@@ -1,0 +1,17 @@
+h1 {
+    font-size: 25px; 
+    color: ghostwhite;
+}
+p {color: crimson;}
+a {
+    font-size: 20px;
+    color: floralwhite;
+    }
+
+body {
+    background-color: black;
+}
+
+div {
+    margin: 25px;
+}
